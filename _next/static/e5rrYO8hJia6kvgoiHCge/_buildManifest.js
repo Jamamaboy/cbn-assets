@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/gh/Jamamaboy/cbn-assets@static-5/_next/:path+",
+        "source": "/gh/Jamamaboy/cbn-assets@static-6/_next/:path+",
         "destination": "/_next/:path+"
       }
     ],
